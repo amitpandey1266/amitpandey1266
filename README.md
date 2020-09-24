@@ -20,7 +20,7 @@
 - 👯 I’m looking to collaborate on AI / ML topics
 - 🤔 I’m looking for help with front end tools learning
 - 💬 Ask me about Python / R / Machine Learning / Statistics 
-- 📫 How to reach me: [Twitter - @amitpandey_xiss](https://twitter.com/amitpandey_xiss)
+- 📫 How to reach me: [twitter - @amitpandey_xiss](https://twitter.com/amitpandey_xiss)
 - 😄 Pronouns: He / his
 - ⚡ Fun fact: I want to create a ML based soultion without using Google
 
