@@ -1,9 +1,9 @@
 ## &nbsp;Hello Friend ! Welcome to my profile page 🙏 
 
 - 🔭 I’m currently working as a freelance Data Scientist
-- 🌱 I’m currently learning Natural Language Processing & Web Scraping 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning more about Natural Language Processing & Web Scraping 
+- 👯 I’m looking to collaborate on  [Linkedin](www.linkedin.com/in/amitpandeybda)
+- 🤔 I’m looking for help with front end tools learning
 - 💬 Ask me about Python / R / Machine Learning / Statistics 
 - 📫 How to reach me: [Twitter - @amitpandey_xiss](https://twitter.com/amitpandey_xiss)
 - 😄 Pronouns: He / his
