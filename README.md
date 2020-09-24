@@ -1,5 +1,20 @@
 ## &nbsp;Hello Friend ! Welcome to my profile page 🙏 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitpandey1266&label=Views&color=blue&style=plastic" alt="amitpandey1266" /> </p>
+
+<a href="https://twitter.com/amitpandey_xiss">
+  <img align="left" alt="Amit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="www.linkedin.com/in/amitpandeybda">
+  <img align="left" alt="Amit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/amitpandey1266">
+  <img align="left" alt="Amit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<br/>
+<br/>
+
 - 🔭 I’m currently working as a freelance Data Scientist
 - 🌱 I’m currently learning more about Natural Language Processing & Web Scraping 
 - 👯 I’m looking to collaborate on AI / ML topics
