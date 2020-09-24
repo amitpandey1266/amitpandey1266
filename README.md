@@ -5,7 +5,7 @@
 <a href="https://twitter.com/amitpandey_xiss">
   <img align="left" alt="Amit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/amitpandeybda">
+<a href="https://linkedin.com/in/amitpandeybda">
   <img align="left" alt="Amit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/amitpandey1266">
