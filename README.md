@@ -1,6 +1,6 @@
 ## &nbsp;Hello Friend ! Welcome to my profile page 🙏 
 
-- 🔭 I’m currently working on simplified solutions to any complex business analytics problems
+- 🔭 I’m currently working as a freelance Data Scientist
 - 🌱 I’m currently learning Natural Language Processing & Web Scraping 
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
