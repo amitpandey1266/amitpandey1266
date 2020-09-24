@@ -34,6 +34,7 @@
 ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![Markdown](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
