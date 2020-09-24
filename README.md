@@ -1,4 +1,4 @@
-## 🙏 &nbsp;Hello Friend !I am Amit Pandey
+## 🙏 &nbsp;Hello Friend ! Welcome to my profile page
 
 - 🔭 I’m currently working on simplified solutions to any complex business analytics problems
 - 🌱 I’m currently learning Natural Language Processing & Web Scraping 
