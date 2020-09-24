@@ -25,7 +25,7 @@
 - ⚡ Fun fact: I want to create a ML based soultion without using Google
 
 [![Twitter: amitpandey_xiss](https://img.shields.io/twitter/follow/amitpandey_xiss?style=social)](https://twitter.com/amitpandey_xiss)
-[![Linkedin: Amit%20Pandey](https://img.shields.io/badge/-Amit Pandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/amitpandeybda/)](https://www.linkedin.com/in/amitpandeybda/)
+[![Linkedin: Amit%20Pandey](https://img.shields.io/badge/-Amit%20Pandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/amitpandeybda/)](https://www.linkedin.com/in/amitpandeybda/)
 [![GitHub amitpandey](https://img.shields.io/github/followers/amitpandey1266?label=follow&style=social)](https://github.com/amitpandey1266)
 
 ### 🛠 &nbsp;Tech Stack
