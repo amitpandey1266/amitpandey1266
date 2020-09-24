@@ -47,4 +47,5 @@
 🙏🏻 &nbsp;Let's Connect to know each other
 <p align="center">
 <a href="https://www.linkedin.com/in/amitpandeybda/"><img src="https://img.shields.io/badge/-Amit%20Pandey-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+[![Twitter: amitpandey_xiss](https://img.shields.io/twitter/follow/amitpandey_xiss?style=social)](https://twitter.com/amitpandey_xiss)
 </p>
