@@ -37,6 +37,7 @@
 ![Markdown](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Markdown](https://img.shields.io/badge/-PySpark-333333?style=flat&logo=Spark-logo)
 ![Markdown](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=Hadoop)
+![Markdown](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)
 ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
