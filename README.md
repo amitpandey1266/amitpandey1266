@@ -2,12 +2,16 @@
 
 - 🔭 I’m currently working as a freelance Data Scientist
 - 🌱 I’m currently learning more about Natural Language Processing & Web Scraping 
-- 👯 I’m looking to collaborate on  [Linkedin](www.linkedin.com/in/amitpandeybda)
+- 👯 I’m looking to collaborate on AI / ML topics
 - 🤔 I’m looking for help with front end tools learning
 - 💬 Ask me about Python / R / Machine Learning / Statistics 
 - 📫 How to reach me: [Twitter - @amitpandey_xiss](https://twitter.com/amitpandey_xiss)
 - 😄 Pronouns: He / his
 - ⚡ Fun fact: I want to create a ML based soultion without using Google
+
+[![Twitter: amitpandey_xiss](https://img.shields.io/twitter/follow/amitpandey_xiss?style=social)](https://twitter.com/amitpandey_xiss)
+[![Linkedin: amitpandey_xiss](https://img.shields.io/badge/-amitpandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/amitpandeybda/)](https://www.linkedin.com/in/amitpandeybda/)
+[![GitHub amitpandey](https://img.shields.io/github/followers/amitpandey1266?label=follow&style=social)](https://github.com/amitpandey1266)
 
 ### 🛠 &nbsp;Tech Stack
 
