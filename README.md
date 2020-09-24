@@ -49,13 +49,6 @@
 </a>
 </p>
 
-<a href="https://github.com/amitpandey1266">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpandey1266&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/amitpandey1266">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitpandey1266&show_icons=true&theme=light&line_height=27" alt="Amit Pandey's Github Stats"/>
-</a>
-
 🙏🏻 &nbsp;Let's Connect to know each other
 <p align="center">
 <a href="https://www.linkedin.com/in/amitpandeybda/"><img src="https://img.shields.io/badge/-Amit%20Pandey-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
